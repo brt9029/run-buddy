@@ -13,4 +13,4 @@ https://lerantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by me!
 
-## &copy 2019 Run Buddy, Inc
+## ©️2019 Run Buddy, Inc
