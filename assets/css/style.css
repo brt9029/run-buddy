@@ -457,8 +457,9 @@ section {
     top: 25px;
     position: relative;
 }
-.section-title:last-child {
-    top: -25px;
+
+.reach-out {
+    top: -30px;
     position: relative;
 }
 
