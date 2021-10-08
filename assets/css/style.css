@@ -266,6 +266,10 @@ section {
     width: 50%;
 }
 
+.section-title h2 {
+    position: relative;
+}
+
 .primary-border {
     border-color: var(--primary-color);
 }
@@ -450,6 +454,12 @@ section {
 
 .flex-row {
     display: flex;
+    top: 25px;
+    position: relative;
+}
+.section-title:last-child {
+    top: -25px;
+    position: relative;
 }
 
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
